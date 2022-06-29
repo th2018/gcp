@@ -5,5 +5,6 @@ In ArcMap, I added 20200609nancypaired_15gcp_index.csv then exported it to .shp.
 
 EXAMPLE 2:
 Input data:  C:\Users\taohuang\Downloads\USDA_ARS-20220627T203346Z-001\USDA_ARS\RTK-for-Tao\2018\rcew ltvr\rcew-ltvr\rcew-ltvr-los1\LOS4-5.shp\uavgcp.shp
-Step 1:
-Step 2:
+Step 1: AddField.py
+Step 2: I calculated geometry of x,y,z.
+Step 3: 
